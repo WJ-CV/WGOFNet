@@ -12,9 +12,9 @@ Framework Overview
 
 saliency map
 ===
-We provide [Saliency maps](https://pan.baidu.com/s/1a07JR1Z96QcyNKDXqbBGfA)(code: 0825)  of our WGOFNet on three datasets (VT5000-Test VT1000 and VT821).
+We provide [Saliency maps](https://pan.baidu.com/s/1a07JR1Z96QcyNKDXqbBGfA)(code: 0825)  of our WGOFNet on three datasets (VT5000-Test, VT1000 and VT821).
 
 Quantitative results
 ===
-The following figure shows the detailed quantitative metrics of WGOFNet:
-![image](https://user-images.githubusercontent.com/101792089/171815348-b3369c5e-81b1-40e0-bbaa-8da1fce4201c.png)
+The following figure shows the detailed quantitative metrics of WGOFNet on three RGB-T SOD datasets:
+![Metrics](https://github.com/WJ-CV/WGOFNet/assets/101792089/7489dbc2-d528-43c1-b87f-6d0eec52c18b)
