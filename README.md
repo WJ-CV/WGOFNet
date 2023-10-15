@@ -4,7 +4,7 @@ WGOFNet
 Weighted Guided Optional Fusion Network for RGB-T Salient Object Detection
 ---
 The paper has been accepted by ACM Transactions on Multimedia Computing, Communications, and Applications (ACM TOMM).
-
+[Paper link](https://doi.org/10.1145/3624984) 
   
 Framework Overview
 ====
