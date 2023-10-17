@@ -18,3 +18,15 @@ Quantitative results
 ===
 The following figure shows the detailed quantitative metrics of WGOFNet on three RGB-T SOD datasets:
 ![Metrics](https://github.com/WJ-CV/WGOFNet/assets/101792089/7489dbc2-d528-43c1-b87f-6d0eec52c18b)
+
+Citation
+===
+```
+@article{wang2023weighted,
+  title={Weighted Guided Optional Fusion Network for RGB-T Salient Object Detection},
+  author={Wang, Jie and Li, Guoqiang and Shi, Jie and Xi, Jinwen},
+  journal={ACM Transactions on Multimedia Computing, Communications and Applications},
+  year={2023},
+  publisher={ACM New York, NY}
+}
+```
